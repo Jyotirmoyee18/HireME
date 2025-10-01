@@ -33,7 +33,7 @@ Make sure you have installed:
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/HireME-Candidate-Dashboard.git
+git clone https://github.com/<Jyotirmoyee18>/HireME-Candidate-Dashboard.git
 ```
 ## Running the App
 
