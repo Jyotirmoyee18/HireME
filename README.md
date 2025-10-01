@@ -46,13 +46,15 @@ npm start
 http://localhost:3000
 ```
 ## 📂 Project Structure
-HireME-Candidate-Dashboard/
-│── frontend/           # React UI components
-│── backend/            # Express server & APIs
-│── data/               # Sample anonymized candidate data
-│── docs/               # Screenshots, demo GIFs
-│── package.json
-│── README.md
+
+HireME-Candidate-Dashboard
+├── 📁 frontend # React UI components
+├── 📁 backend # Express server & APIs
+├── 📁 data # Sample anonymized candidate data
+├── 📁 docs # Screenshots, demo GIFs
+├── 📄 package.json # Project metadata & dependencies
+└── 📄 README.md # Project documentation
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to open an issue or submit a pull request.
