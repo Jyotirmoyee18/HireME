@@ -49,9 +49,8 @@ http://localhost:3000
 ```
 HireME-Candidate-Dashboard
 ├── 📁 frontend # React UI components
-├── 📁 backend # Express server & APIs
-├── 📁 data # Sample anonymized candidate data
-├── 📁 docs # Screenshots, demo GIFs
+├── 📁 backend # Express server & APIs & data
+├── 📁 data # Sample anonymized candidate data (for large data set)
 ├── 📄 package.json # Project metadata & dependencies
 └── 📄 README.md # Project documentation
 ```
